@@ -1,0 +1,9 @@
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\bin\Debug\RubicTrainDataGenerator.exe.config
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\bin\Debug\RubicTrainDataGenerator.exe
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\bin\Debug\RubicTrainDataGenerator.pdb
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\obj\Debug\RubicTrainDataGenerator.csprojAssemblyReference.cache
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\obj\Debug\RubicTrainDataGenerator.Form1.resources
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\obj\Debug\RubicTrainDataGenerator.Properties.Resources.resources
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\obj\Debug\RubicTrainDataGenerator.csproj.GenerateResource.cache
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\obj\Debug\RubicTrainDataGenerator.exe
+C:\Users\Dimitrie Vatra\source\repos\RubicTrainDataGenerator\RubicTrainDataGenerator\obj\Debug\RubicTrainDataGenerator.pdb
